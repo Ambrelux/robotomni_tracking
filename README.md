@@ -1,4 +1,4 @@
-# Server_for_vision_Prorok
+# Robot omni tracking and controller part
 
 This Project is a Tkinter application with an UDP server used to send commands to the OmnibotSimulation and display the robot view. 
 
